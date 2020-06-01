@@ -1,11 +1,5 @@
 # Use antd in create-react-app ✨
 
-[Create React App](https://facebook.github.io/create-react-app/) + [Ant Design](https://ant.design).
-
-## Step by Step Documentation
-
-- 🇺🇸 English: https://ant.design/docs/react/use-with-create-react-app
-- 🇨🇳 中文：https://ant.design/docs/react/use-with-create-react-app-cn
 
 ## Preview
 
@@ -29,7 +23,6 @@ $ yarn start
 - [craco-less](https://github.com/DocSpring/craco-less)
 
 ---
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
